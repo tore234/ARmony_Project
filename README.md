@@ -14,8 +14,7 @@ ARmony es una herramienta digital diseñada para ofrecer apoyo emocional a trav�
 ## 🛠️ Características principales
 
 - 🤖 **Chatbot IA:** Interpreta tus emociones y te ofrece recomendaciones personalizadas.  
-- 🥽 **Entornos de Realidad Aumentada:** Explora espacios relajantes como un bosque sereno, una playa tranquila o un jardín zen.  
-- ⚛️ **Desarrollo con React:** Interfaz web dinámica, modular y escalable.  
+- 🥽 **Entornos de Realidad Aumentada:** Explora espacios relajantes como un bosque sereno, una playa tranquila o un jardín zen.   
 - ⚡ **Metodología Ágil:** Desarrollo iterativo con Scrum para mejorar continuamente.
 
 ---
@@ -54,7 +53,7 @@ ARmony es una herramienta digital diseñada para ofrecer apoyo emocional a trav�
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT.  
+
 
 ---
 
