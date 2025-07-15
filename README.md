@@ -8,7 +8,7 @@ Una aplicación innovadora que combina **Inteligencia Artificial (IA)** y **Real
 
 ## 🚀 ¿Qué es ARmony?
 
-ARmony es una herramienta digital diseñada para ofrecer apoyo emocional a través de un **chatbot inteligente** y **entornos inmersivos de RA** que guían ejercicios de respiración y mindfulness. Todo esto en una interfaz móvil intuitiva y accesible.
+ARmony es una herramienta digital diseñada para ofrecer apoyo emocional a través de un **chatbot inteligente** y **entornos inmersivos de RA** que guían ejercicios de respiración y mindfulness. Todo esto en una interfaz web intuitiva y accesible.
 
 ---
 
