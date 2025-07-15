@@ -1,14 +1,13 @@
-
-# 🌿 ARmony - Bienestar Emocional con IA y RA
+# 🌿 ARmony - Bienestar Emocional con IA y RA (React Web App)
 
 ¡Bienvenido a ARmony! 🎉  
-Una aplicación innovadora que combina **Inteligencia Artificial (IA)** y **Realidad Aumentada (RA)** para ayudarte a mejorar tu bienestar emocional y manejar el estrés de forma interactiva y personalizada.
+Una aplicación web innovadora desarrollada con **React** que combina **Inteligencia Artificial (IA)** y **Realidad Aumentada (RA)** para ayudarte a mejorar tu bienestar emocional y manejar el estrés de forma interactiva y personalizada.
 
 ---
 
 ## 🚀 ¿Qué es ARmony?
 
-ARmony es una herramienta digital diseñada para ofrecer apoyo emocional a través de un **chatbot inteligente** y **entornos inmersivos de RA** que guían ejercicios de respiración y mindfulness. Todo esto en una interfaz web intuitiva y accesible.
+ARmony es una herramienta digital diseñada para ofrecer apoyo emocional a través de un **chatbot inteligente** y **entornos inmersivos de RA** que guían ejercicios de respiración y mindfulness. Todo esto en una interfaz web moderna, rápida y accesible.
 
 ---
 
@@ -16,14 +15,15 @@ ARmony es una herramienta digital diseñada para ofrecer apoyo emocional a trav�
 
 - 🤖 **Chatbot IA:** Interpreta tus emociones y te ofrece recomendaciones personalizadas.  
 - 🥽 **Entornos de Realidad Aumentada:** Explora espacios relajantes como un bosque sereno, una playa tranquila o un jardín zen.  
-- 📱 **Interfaz móvil:** Fácil de usar, compatible con Android e iOS.  
+- ⚛️ **Desarrollo con React:** Interfaz web dinámica, modular y escalable.  
 - ⚡ **Metodología Ágil:** Desarrollo iterativo con Scrum para mejorar continuamente.
 
 ---
 
 ## 📂 Contenido del repositorio
 
-- `/src` - Código fuente de la aplicación  
+- `/src` - Código fuente React  
+- `/public` - Archivos estáticos y recursos  
 - `/docs` - Documentación del proyecto  
 - `/tests` - Pruebas de usabilidad, integración y rendimiento  
 - `/assets` - Recursos gráficos y multimedia  
@@ -40,8 +40,8 @@ ARmony es una herramienta digital diseñada para ofrecer apoyo emocional a trav�
 
 ## 📈 Próximos pasos
 
-- Migración completa a React para mejorar rendimiento y escalabilidad ⚛️  
-- Ampliar entornos de RA y funcionalidades del chatbot  
+- Completar funcionalidades del chatbot y entornos RA  
+- Optimizar rendimiento y accesibilidad web  
 - Realizar pruebas piloto con usuarios reales para validar impacto  
 
 ---
